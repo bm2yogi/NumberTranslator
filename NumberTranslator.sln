@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberTranslator", "NumberTranslator\NumberTranslator.csproj", "{A55BC2AD-4BCA-417E-9573-31A9497ED305}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberTranslator.Tests.Unit", "NumberTrasnlator.Tests.Unit\NumberTranslator.Tests.Unit.csproj", "{E7D5FD53-883A-481A-B27C-3630D4C4895D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberTranslator.Tests.Unit", "NumberTranslator.Tests.Unit\NumberTranslator.Tests.Unit.csproj", "{E7D5FD53-883A-481A-B27C-3630D4C4895D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
