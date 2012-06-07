@@ -55,20 +55,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="1_NumberTranslatorTests.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="2_NumberTranslatorTests.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="3_NumberTranslatorTests.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="4_NumberTranslatorTests.cs">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ZeroToNine.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
